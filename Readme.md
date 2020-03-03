@@ -25,13 +25,3 @@ This is a API for accessing topics of information from newsapi.org .
 # How to deploy to cloud environment
 - Firebase cloud functions is one option.
 - Simple integrate this API with firebase tools, upload the tool to Firebase Cloud Functions, and require authentication to be able to call the API (Using firebase auth for ease).
-
-
-## Evaluation criteria
-
-Your work will be evaluated based on the following criteria:
-- Functional requirements as specificed
-- Proper workflow and branching strategy
-- Proper handling of secrets
-- Clarity of the instructions in the `README.md` file
-- We do not judge on coding style and paradigm but would appreciate code with clear logic flow and effective use of resources
